@@ -1,0 +1,2 @@
+# finder
+x kazmight
